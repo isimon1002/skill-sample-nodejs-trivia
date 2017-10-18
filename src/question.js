@@ -7,748 +7,616 @@ module.exports = {
      */
     QUESTIONS_EN_GB: [
         {
-            'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
+            'Who was the first Ultimate Fighting Championship heavyweight champion?': [
+                'Mark Coleman',
+                'Maurice Smith',
+                'Randy Couture',
+                'Bas Rutten',
+                'Kevin Randleman',
+                'Josh Barnett',
             ],
         },
         {
-            'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ': [
-                'Japan',
-                'United States',
-                'Finland',
-                'Germany',
-                'Canada',
-                'Norway',
-                'France',
+            'Who was the first Ultimate Fighting Championship light heavyweight champion?': [
+                'Frank Shamrock',
+                'Tito Ortiz',
+                'Randy Couture',
+                'Vitor Belfort',
+                'Chuck Liddell',
+                'Quinton Jackson',
+                'Forrest Griffin',
             ],
         },
         {
-            'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-                'Wunorse Openslae',
-                'Alabaster Snowball',
-                'Bushy Evergreen',
-                'Pepper Minstix',
+            'Who was the first Ultimate Fighting Championship middleweight champion?': [
+               'Dave Menne',
+               'Murilo Bustamante',
+               'Evan Tanner',
+               'Rich Franklin',
             ],
         },
         {
-            'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be. ': [
-                'Girls',
-                'Boys',
-                'Girls and boys',
-                'No way to tell',
+            'Who was the first Ultimate Fighting Championship welterweight champion?': [
+                'Pat Miletich',
+                'Carlos Newton',
+                'Matt Hughes',
+                'BJ Penn',
             ],
         },
         {
-            'What do Reindeer eat?': [
-                'Lichen',
-                'Grasses',
-                'Leaves',
-                'Berries',
+            'Who was the first Ultimate Fighting Championship lightweight champion?': [
+                'Jens Pulver',
+                'Sean Sherk',
+                'BJ Penn',
+                'Frankie Edgar',
             ],
         },
         {
-            'What of the following is not true?': [
-                'Caribou live on all continents',
-                'Both reindeer and Caribou are the same species',
-                'Caribou are bigger than reindeer',
-                'Reindeer live in Scandinavia and Russia',
+            'Who fought in the first Ultimate Fighting Championship fight?': [
+                'Gerard Gordeau	and Teila Tuli',
+                'Kevin Rosier and	Zane Frazier',
+                'Royce Gracie	and	Art Jimmerson',
+                'Ken Shamrock	and	Patrick Smith',
             ],
         },
         {
-            'In what year did Rudolph make his television debut?': [
-                '1964',
-                '1979',
+            'In what year was the Ultimate Fighting Championship founded?': [
+                '1993',
+                '1989',
+                '1990',
+                '1995',
+            ],
+        },
+        {
+            'In what year was Pride Fighting Championships founded?': [
+                '1997',
+                '1998',
                 '2000',
-                '1956',
+                '1995',
             ],
         },
         {
-            'Who was the voice of Rudolph in the 1964 classic?': [
-                'Billie Mae Richards',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
+            'In what year did Pride Fighting Championships close?': [
+                '2007',
+                '2010',
+                '2005',
+                '2008',
             ],
         },
         {
-            'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-                'Montgomery Ward',
-                'Sears',
-                'Macys',
-                'Kmart',
+            'Who won the Pride Fighting Championships 2004 Heavyweight Grand Prix': [
+                'Fedor Emelianenko',
+                'Naoya Ogawa',
+                'Antônio Rodrigo Nogueira',
+                'Sergei Kharitonov',
             ],
         },
         {
-            'Santa\'s reindeer named Donner was originally named what?': [
-                'Dunder',
-                'Donny',
-                'Dweedle',
-                'Dreamy',
+            'In what year was Bellator Mixed Martial Arts founded?': [
+                '2008',
+                '2007',
+                '2010',
+                '2009',
             ],
         },
         {
-            'Who invented the story of Rudolph?': [
-                'Robert May',
-                'Johnny Marks',
-                'Santa',
-                'J.K. Rowling',
+            'Who was the first Bellator Mixed Martial Arts heavyweight champion?': [
+                'Cole Konrad',
+                'Eric Prindle',
+                'Neil Grove',
+                'Alexander Volkov',
+                'Rich Hale',
+                'Josh Barnett',
             ],
         },
         {
-            'In what location will you not find reindeer?': [
-                'North Pole',
-                'Lapland',
-                'Korvatunturi mountain',
-                'Finland',
+            'Who was the first Bellator Mixed Martial Arts light heavyweight champion?': [
+                'Christian M\'Pumbu',
+                'Rich Hale',
+                'Attila Végh',
+                'Emanuel Newton',
+                'Liam McGeary',
+                'Muhammed Lawal',
+                'Forrest Griffin',
             ],
         },
         {
-            'What Makes Santa\'s Reindeer Fly?': [
-                'Magical Reindeer Dust',
-                'Fusion',
-                'Amanita muscaria',
-                'Elves',
+            'Who was the first Bellator Mixed Martial Arts middleweight champion?': [
+               'Hector Lombard',
+               'Alexander Shlemenko',
+               'Maiquel Falcão',
+               'Brandon Halsey',
             ],
         },
         {
-            'Including Rudolph, how many reindeer hooves are there?': [
-                '36',
-                '24',
-                '16',
-                '8',
+            'Who was the first Bellator Mixed Martial Arts welterweight champion?': [
+                'Lyman Good',
+                'Omar de la Cruz',
+                'Ben Askren',
+                'Douglas Lima',
             ],
         },
         {
-            'Santa only has one female reindeer. Which one is it?': [
-                'Vixen',
-                'Clarice',
-                'Cupid',
-                'Cupid',
+            'Who was the first Bellator Mixed Martial Arts lightweight champion?': [
+                'Eddie Alvarez',
+                'Toby Imada',
+                'Michael Chandler',
+                'Will Brooks',
             ],
         },
         {
-            'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-                'Sam',
-                'Frosty',
-                'Burl',
-                'Snowy',
+            'Prior to being called Bellator Mixed Martial Arts what was the promotion called?': [
+                'Bellator Fighting Championships',
+                'Bellator',
+                'Bellator Fighters',
+                'Dream',
             ],
         },
         {
-            'What was Rudolph\'s father\'s name?': [
-                'Donner',
-                'Dasher',
-                'Blixen',
-                'Comet',
+            'Who was the first Bellator Mixed Martial Arts champion?': [
+                'Joe Soto',
+                'Lyman Good',
+                'Hector Lombard',
+                'Eddie Alvarez',
             ],
         },
         {
-            'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-                'Comet',
-                'Blixen',
-                'Donner',
-                'Dasher',
+            'Who was the first Ultimate Fighting Championship champion?': [
+                'Royce Gracie',
+                'Gerard Gordeau',
+                'Ken Shamrock',
+                'Kevin Rosier',
             ],
         },
         {
-            'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-                'Fireball',
-                'Clarice',
-                'Jumper',
-                'Vixen',
+            'Joe Rogan is a famous comedian and has performed interviews and done commentary for the Ultimate fighting championship.  Which event was his first?': [
+                'Ultimate fighting championship 12',
+                'Ultimate fighting championship 10',
+                'Ultimate fighting championship 15',
+                'Ultimate fighting championship 14',
             ],
         },
         {
-            'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-                'Black mud',
-                'Bag',
-                'Pillow case',
-                'Sock',
+            'Which two fighters won the first season of The Ultimate Fighter?': [
+                'Forrest Griffin and Diego Sanchez',
+                'Forrest Griffin and Stephan Bonnar',
+                'Diego Sanchez and Kenny Florian',
+                'Stephan Bonnar and Kenny Florian',
             ],
         },
         {
-            'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-                'Dentist',
-                'Reindeer',
-                'Toy maker',
-                'Candlestick maker',
+            'Which two fighters coached the first season of The Ultimate Fighter?': [
+                'Chuck Liddell and Randy Couture',
+                'Chuck Liddell and Tito Ortiz',
+                'Randy Couture and Tito Ortiz',
+                'Matt Hughes and Rich Franklin',
             ],
         },
         {
-            'In the 1964 movie,what was the Bumble\'s one weakness?': [
-                'Could not swim',
-                'Always hungry',
-                'Candy canes',
-                'Cross eyed',
+            'Many people mistakenly believe that the Fertitta brothers founded the Ultimate Fighting Championship.  While they did not found the Ultimate Fighting Championship they did grow it into the giant it is today.  In what year did they buy the Ultimate Fighting Championship? ': [
+                '2001',
+                '2000',
+                '1999',
+                '2002',
             ],
         },
         {
-            'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-                'Peppermint',
-                'Gold',
-                'India',
-                'Polar Bears',
-            ],
-        },
-        {
-            'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-                'Square wheels',
-                'No Engine',
-                'Paint does not match',
-                'It does not toot',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the Jack in the Box?': [
-                'Charlie',
-                'Sam',
-                'Billy',
-                'Jack',
-            ],
-        },
-        {
-            'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-                'Storm',
-                'No snow',
-                'No toys',
-                'The Reindeer were sick',
-            ],
-        },
-        {
-            'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-                'Oink',
-                'Growl',
-                'Bark',
-                'Meow',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the prospector?': [
-                'Yukon Cornelius',
-                'Slider Sam',
-                'Bumble',
-                'Jack',
-            ],
-        },
-        {
-            'How far do reindeer travel when they migrate?': [
-                '3000 miles',
-                '700 miles',
-                '500 miles',
-                '0 miles',
-            ],
-        },
-        {
-            'How fast can a reindeer run?': [
-                '48 miles per hour',
-                '17 miles per hour',
-                '19 miles per hour',
-                '14 miles per hour',
-                '52 miles per hour',
-                '41 miles per hour',
-            ],
-        },
-    ],
+            'In what year did Zuffa sell the Ultimate Fighting Championship?': [
+                '2016',
+                '2017',
+                '2014',
+                '2015',
+              ],
+          },
+      ],
+
     QUESTIONS_EN_US: [
-        {
-            'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
-            ],
-        },
-        {
-            'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ': [
-                'Japan',
-                'United States',
-                'Finland',
-                'Germany',
-                'Canada',
-                'Norway',
-                'France',
-            ],
-        },
-        {
-            'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-                'Wunorse Openslae',
-                'Alabaster Snowball',
-                'Bushy Evergreen',
-                'Pepper Minstix',
-            ],
-        },
-        {
-            'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be': [
-                'Girls',
-                'Boys',
-                'Girls and boys',
-                'No way to tell',
-            ],
-        },
-        {
-            'What do Reindeer eat?': [
-                'Lichen',
-                'Grasses',
-                'Leaves',
-                'Berries',
-            ],
-        },
-        {
-            'What of the following is not true?': [
-                'Caribou live on all continents',
-                'Both reindeer and Caribou are the same species',
-                'Caribou are bigger than reindeer',
-                'Reindeer live in Scandinavia and Russia',
-            ],
-        },
-        {
-            'In what year did Rudolph make his television debut?': [
-                '1964',
-                '1979',
-                '2000',
-                '1956',
-            ],
-        },
-        {
-            'Who was the voice of Rudolph in the 1964 classic?': [
-                'Billie Mae Richards',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
-            ],
-        },
-        {
-            'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-                'Montgomery Ward',
-                'Sears',
-                'Macys',
-                'Kmart',
-            ],
-        },
-        {
-            'Santa\'s reindeer named Donner was originally named what?': [
-                'Dunder',
-                'Donny',
-                'Dweedle',
-                'Dreamy',
-            ],
-        },
-        {
-            'Who invented the story of Rudolph?': [
-                'Robert May',
-                'Johnny Marks',
-                'Santa',
-                'J.K. Rowling',
-            ],
-        },
-        {
-            'In what location will you not find reindeer?': [
-                'North Pole',
-                'Lapland',
-                'Korvatunturi mountain',
-                'Finland',
-            ],
-        },
-        {
-            'What Makes Santa\'s Reindeer Fly?': [
-                'Magical Reindeer Dust',
-                'Fusion',
-                'Amanita muscaria',
-                'Elves',
-            ],
-        },
-        {
-            'Including Rudolph, how many reindeer hooves are there?': [
-                '36',
-                '24',
-                '16',
-                '8',
-            ],
-        },
-        {
-            'Santa only has one female reindeer. Which one is it?': [
-                'Vixen',
-                'Clarice',
-                'Cupid',
-                'Cupid',
-            ],
-        },
-        {
-            'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-                'Sam',
-                'Frosty',
-                'Burl',
-                'Snowy',
-            ],
-        },
-        {
-            'What was Rudolph\'s father\'s name?': [
-                'Donner',
-                'Dasher',
-                'Blixen',
-                'Comet',
-            ],
-        },
-        {
-            'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-                'Comet',
-                'Blixen',
-                'Donner',
-                'Dasher',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-                'Fireball',
-                'Clarice',
-                'Jumper',
-                'Vixen',
-            ],
-        },
-        {
-            'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-                'Black mud',
-                'Bag',
-                'Pillow case',
-                'Sock',
-            ],
-        },
-        {
-            'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-                'Dentist',
-                'Reindeer',
-                'Toy maker',
-                'Candlestick maker',
-            ],
-        },
-        {
-            'In the 1964 movie,what was the Bumble\'s one weakness?': [
-                'Could not swim',
-                'Always hungry',
-                'Candy canes',
-                'Cross eyed',
-            ],
-        },
-        {
-            'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-                'Peppermint',
-                'Gold',
-                'India',
-                'Polar Bears',
-            ],
-        },
-        {
-            'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-                'Square wheels',
-                'No Engine',
-                'Paint does not match',
-                'It does not toot',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the Jack in the Box?': [
-                'Charlie',
-                'Sam',
-                'Billy',
-                'Jack',
-            ],
-        },
-        {
-            'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-                'Storm',
-                'No snow',
-                'No toys',
-                'The Reindeer were sick',
-            ],
-        },
-        {
-            'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-                'Oink',
-                'Growl',
-                'Bark',
-                'Meow',
-            ],
-        },
-        {
-            'In the 1964 movie, what is the name of the prospector?': [
-                'Yukon Cornelius',
-                'Slider Sam',
-                'Bumble',
-                'Jack',
-            ],
-        },
-        {
-            'How far do reindeer travel when they migrate?': [
-                '3000 miles',
-                '700 miles',
-                '500 miles',
-                '0 miles',
-            ],
-        },
-        {
-            'How fast can a reindeer run?': [
-                '48 miles per hour',
-                '17 miles per hour',
-                '19 miles per hour',
-                '14 miles per hour',
-                '52 miles per hour',
-                '41 miles per hour',
+      {
+          'Who was the first Ultimate Fighting Championship heavyweight champion?': [
+              'Mark Coleman',
+              'Maurice Smith',
+              'Randy Couture',
+              'Bas Rutten',
+              'Kevin Randleman',
+              'Josh Barnett',
+          ],
+      },
+      {
+          'Who was the first Ultimate Fighting Championship light heavyweight champion?': [
+              'Frank Shamrock',
+              'Tito Ortiz',
+              'Randy Couture',
+              'Vitor Belfort',
+              'Chuck Liddell',
+              'Quinton Jackson',
+              'Forrest Griffin',
+          ],
+      },
+      {
+          'Who was the first Ultimate Fighting Championship middleweight champion?': [
+             'Dave Menne',
+             'Murilo Bustamante',
+             'Evan Tanner',
+             'Rich Franklin',
+          ],
+      },
+      {
+          'Who was the first Ultimate Fighting Championship welterweight champion?': [
+              'Pat Miletich',
+              'Carlos Newton',
+              'Matt Hughes',
+              'BJ Penn',
+          ],
+      },
+      {
+          'Who was the first Ultimate Fighting Championship lightweight champion?': [
+              'Jens Pulver',
+              'Sean Sherk',
+              'BJ Penn',
+              'Frankie Edgar',
+          ],
+      },
+      {
+          'Who fought in the first Ultimate Fighting Championship fight?': [
+              'Gerard Gordeau	and Teila Tuli',
+              'Kevin Rosier and	Zane Frazier',
+              'Royce Gracie	and	Art Jimmerson',
+              'Ken Shamrock	and	Patrick Smith',
+          ],
+      },
+      {
+          'In what year was the Ultimate Fighting Championship founded?': [
+              '1993',
+              '1989',
+              '1990',
+              '1995',
+          ],
+      },
+      {
+          'In what year was Pride Fighting Championships founded?': [
+              '1997',
+              '1998',
+              '2000',
+              '1995',
+          ],
+      },
+      {
+          'In what year did Pride Fighting Championships close?': [
+              '2007',
+              '2010',
+              '2005',
+              '2008',
+          ],
+      },
+      {
+          'Who won the Pride Fighting Championships 2004 Heavyweight Grand Prix': [
+              'Fedor Emelianenko',
+              'Naoya Ogawa',
+              'Antônio Rodrigo Nogueira',
+              'Sergei Kharitonov',
+          ],
+      },
+      {
+          'In what year was Bellator Mixed Martial Arts founded?': [
+              '2008',
+              '2007',
+              '2010',
+              '2009',
+          ],
+      },
+      {
+          'Who was the first Bellator Mixed Martial Arts heavyweight champion?': [
+              'Cole Konrad',
+              'Eric Prindle',
+              'Neil Grove',
+              'Alexander Volkov',
+              'Rich Hale',
+              'Josh Barnett',
+          ],
+      },
+      {
+          'Who was the first Bellator Mixed Martial Arts light heavyweight champion?': [
+              'Christian M\'Pumbu',
+              'Rich Hale',
+              'Attila Végh',
+              'Emanuel Newton',
+              'Liam McGeary',
+              'Muhammed Lawal',
+              'Forrest Griffin',
+          ],
+      },
+      {
+          'Who was the first Bellator Mixed Martial Arts middleweight champion?': [
+             'Hector Lombard',
+             'Alexander Shlemenko',
+             'Maiquel Falcão',
+             'Brandon Halsey',
+          ],
+      },
+      {
+          'Who was the first Bellator Mixed Martial Arts welterweight champion?': [
+              'Lyman Good',
+              'Omar de la Cruz',
+              'Ben Askren',
+              'Douglas Lima',
+          ],
+      },
+      {
+          'Who was the first Bellator Mixed Martial Arts lightweight champion?': [
+              'Eddie Alvarez',
+              'Toby Imada',
+              'Michael Chandler',
+              'Will Brooks',
+          ],
+      },        {
+          'Prior to being called Bellator Mixed Martial Arts what was the promotion called?': [
+              'Bellator Fighting Championships',
+              'Bellator',
+              'Bellator Fighters',
+              'Dream',
+          ],
+      },
+      {
+          'Who was the first Bellator Mixed Martial Arts champion?': [
+              'Joe Soto',
+              'Lyman Good',
+              'Hector Lombard',
+              'Eddie Alvarez',
+          ],
+      },
+      {
+          'Who was the first Ultimate Fighting Championship champion?': [
+              'Royce Gracie',
+              'Gerard Gordeau',
+              'Ken Shamrock',
+              'Kevin Rosier',
+          ],
+      },
+      {
+          'Joe Rogan is a famous comedian and has performed interviews and done commentary for the Ultimate fighting championship.  Which event was his first?': [
+              'Ultimate fighting championship 12',
+              'Ultimate fighting championship 10',
+              'Ultimate fighting championship 15',
+              'Ultimate fighting championship 14',
+          ],
+      },
+      {
+          'Which two fighters won the first season of The Ultimate Fighter?': [
+              'Forrest Griffin and Diego Sanchez',
+              'Forrest Griffin and Stephan Bonnar',
+              'Diego Sanchez and Kenny Florian',
+              'Stephan Bonnar and Kenny Florian',
+          ],
+      },
+      {
+          'Which two fighters coached the first season of The Ultimate Fighter?': [
+              'Chuck Liddell and Randy Couture',
+              'Chuck Liddell and Tito Ortiz',
+              'Randy Couture and Tito Ortiz',
+              'Matt Hughes and Rich Franklin',
+          ],
+      },
+      {
+          'Many people mistakenly believe that the Fertitta brothers founded the Ultimate Fighting Championship.  While they did not found the Ultimate Fighting Championship they did grow it into the giant it is today.  In what year did they buy the Ultimate Fighting Championship? ': [
+              '2001',
+              '2000',
+              '1999',
+              '2002',
+          ],
+      },
+      {
+          'In what year did Zuffa sell the Ultimate Fighting Championship?': [
+              '2016',
+              '2017',
+              '2014',
+              '2015',
             ],
         },
     ],
+
     QUESTIONS_DE_DE: [
-        {
-            'Rentiere haben ein sehr dickes Fell. Wie viele Haare pro Quadratzentimeter haben sie?': [
-                '13,000',
-                '1,200',
-                '5,000',
-                '700',
-                '1,000',
-                '120,000',
+
+{
+            'Wer war der erste Ultimate Fighting Championship Schwergewichts-Champion?': [
+                "Mark Coleman",
+                "Maurice Smith",
+                'Randy Couture',
+                'Bas Rutten',
+                'Kevin Randleman',
+                "Josh Barnett",
             ],
         },
         {
-            'Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in. ': [
-                'Japan',
-                'USA',
-                'Finnland',
-                'Deutschland',
-                'Kanada',
-                'Norwegen',
-                'Frankreich',
+            'Wer war der erste Ultimate Fighting Championship Champion im Halbschwergewicht?': [
+                "Frank Shamrock",
+                "Tito Ortiz",
+                'Randy Couture',
+                "Vitor Belfort",
+                "Chuck Liddell",
+                "Quinton Jackson",
+                "Forrest Griffin",
             ],
         },
         {
-            'Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen. Wie heißt sie?': [
-                'Wunorse Openslae',
-                'Alabaster Snowball',
-                'Bushy Evergreen',
-                'Pfeffer Minstix',
+            "Wer war der erste Ultimate Fighting Championship-Champion im Mittelgewicht?": [
+               'Dave Menne',
+               'Murilo Bustamante',
+               "Evan Tanner",
+               "Rich Franklin",
             ],
         },
         {
-            'Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle. ': [
-                'Weiblich',
-                'Männlich',
-                'Weiblich und männlich',
-                'Kann man nicht sagen',
+            'Wer war der erste Ultimate Fighting Championship Champion im Weltergewicht?': [
+                "Pat Miletich",
+                "Carlos Newton",
+                "Matt Hughes",
+                'BJ Penn',
             ],
         },
         {
-            'Was essen Rentiere?': [
-                'Flechten',
-                'Gras',
-                'Blätter',
-                'Beeren',
+            "Wer war der erste Ultimate Fighting Championship Leichtgewicht-Champion?": [
+                "Jens Pulver",
+                "Sean Sherk",
+                'BJ Penn',
+                "Frankie Edgar",
             ],
         },
         {
-            'Welche Aussage ist nicht richtig?': [
-                'Karibus leben auf allen Kontinenten',
-                'Karibus und Rentiere gehören derselben Gattung an ',
-                'Karibus sind größer als Rentiere',
-                'Rentiere leben in Skandinavien und Russland',
+            "Wer hat im ersten Ultimate Fighting Championship Kampf gekämpft?": [
+                "Gerard Gordeau und Teila Tuli",
+                "Kevin Rosier und Zane Frazier",
+                "Royce Gracie und Art Jimmerson",
+                'Ken Shamrock und Patrick Smith',
             ],
         },
         {
-            'In welchem Jahr kam Rudolph ins Fernsehen?': [
-                '1964',
-                '1979',
-                '2000',
-                '1956',
-            ],
-        },
-        {
-            'Wer war der Sprecher für Rudolph im klassischen Film aus dem Jahr 1964?': [
-                'Billie Mae Richards',
-                'Burl Ives',
-                'Paul Soles',
-                'Lady Gaga',
-            ],
-        },
-        {
-            'Welche Handelskette verwendete 1939 die Geschichte von Rudolph mit der roten Nase?': [
-                'Montgomery Ward',
-                'Sears',
-                'Macys',
-                'Kmart',
-            ],
-        },
-        {
-            'Wie hieß das Rentier des Weihnachtsmanns namens Donner ursprünglich?': [
-                'Dunder',
-                'Donny',
-                'Dweedle',
-                'Dreamy',
-            ],
-        },
-        {
-            'Wer hat die Geschichte von Rudolph erfunden?': [
-                'Robert May',
-                'Johnny Marks',
-                'Santa',
-                'J.K. Rowling',
-            ],
-        },
-        {
-            'Wo findest du keine Rentiere?': [
-                'Nordpol',
-                'Lappland',
-                'Korvatunturi-Berge',
-                'Finnland',
-            ],
-        },
-        {
-            'Warum können die Rentiere des Weihnachtsmanns fliegen?': [
-                'Magischer Staub der Rentiere',
-                'Fusion',
-                'Amanita muscaria',
-                'Elfen',
-            ],
-        },
-        {
-            'Wieviele Rentierhufe gibt es hier einschließlich Rudolph?': [
-                '36',
-                '24',
-                '16',
-                '8',
-            ],
-        },
-        {
-            'Der Weihnachtsmann hat nur ein weibliches Rentier. Wie heißt es?': [
-                'Blitzen',
-                'Clarice',
-                'Cupid',
-                'Cupid',
-            ],
-        },
-        {
-            'Wie war der Name des erzählenden Schneemanns im klassischen Film Rudolph mit der roten Nase aus dem Jahr 1964?': [
-                'Sam',
-                'Frosty',
-                'Burl',
-                'Snowy',
-            ],
-        },
-        {
-            'Wie hieß der Vater von Rudolph?': [
-                'Donner',
-                'Dasher',
-                'Blixen',
-                'Comet',
-            ],
-        },
-        {
-            'Wie war der Name des Trainers der Rentierspiele im klassischen Film aus dem Jahr 1964?': [
-                'Comet',
-                'Blixen',
-                'Donner',
-                'Dasher',
-            ],
-        },
-        {
-            'Wie war im klassichen Film aus 1964 der Name des Hirsches, mit dem sich Rudolph befreundete?': [
-                'Fireball',
-                'Clarice',
-                'Jumper',
-                'Vixen',
-            ],
-        },
-        {
-            'Wie hat der Vater von Rudolph, Donner, im Film aus dem Jahr 1964 versucht, die Nase von Rudolph zu verbergen?': [
-                'Schwarzer Schlamm',
-                'Sack',
-                'Kissenbezug',
-                'Socke',
-            ],
-        },
-        {
-            'Was möchte die Misfit-Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?': [
-                'Zahnarzt',
-                'Rentier',
-                'Spielzeugmacher',
-                'Kerzenmacher',
-            ],
-        },
-        {
-            'Was war die einzige Schwäche von Bumble im Film aus dem Jahr 1964?': [
-                'Konnte nicht schwimmen',
-                'War immer hungrig',
-                'Zuckerstangen',
-                'Schielte',
-            ],
-        },
-        {
-            'Was sucht Yukon Cornelius in Wirklichkeit im Film aus dem Jahr 1964?': [
-                'Pfefferminz',
-                'Gold',
-                'Indien',
-                'Polarbären',
-            ],
-        },
-        {
-            'Warum befindet sich der Zug im Film aus dem Jahr 1964 auf der Insel des fehlerhaften Spielzeugs?': [
-                'Viereckige Räder',
-                'Keine Dampfmaschine',
-                'Farbe stimmt nicht',
-                'Pfeift nicht',
-            ],
-        },
-        {
-            'Wie lautet der Name des Schachtelmännchens im Film aus dem Jahr 1964?': [
-                'Charlie',
-                'Sam',
-                'Billy',
-                'Jack',
-            ],
-        },
-        {
-            'Warum hat der Weihnachtsmann im Film aus dem Jahr 1964 Weihnachten beinahe abgesagt?': [
-                'Sturm',
-                'Kein Schnee',
-                'Kein Spielzeug',
-                'Die Rentiere waren krank',
-            ],
-        },
-        {
-            'Welches tierische Geräusch machte die Elfe im Film aus dem Jahr 1964, um den Bumble abzulenken?': [
-                'Oink',
-                'Knurr',
-                'Wauwau',
-                'Miau',
-            ],
-        },
-        {
-            'Wie lautet der Name des Goldsuchers im Film aus dem Jahr 1964?': [
-                'Yukon Cornelius',
-                'Slider Sam',
-                'Bumble',
-                'Jack',
-            ],
-        },
-        {
-            'Wie weit ziehen Rentiere auf ihren Wanderungen?': [
-                '4800 km',
-                '1100 km',
-                '800 km',
-                '0 km',
-            ],
-        },
-        {
-            'Wie schnell läuft ein Rentier?': [
-                '77 km pro Stunde',
-                '27 km pro Stunde',
-                '30 km pro Stunde',
-                '22 km pro Stunde',
-                '83 km pro Stunde',
-                '65 km pro Stunde',
+          'In welchem ​​Jahr wurde die Ultimate Fighting Championship gegründet?': [
+              '1993',
+              "1989",
+              '1990',
+              "1995",
+          ],
+      },
+      {
+          "In welchem ​​Jahr wurden die Pride Fighting Championships gegründet?":[
+              '1997',
+              '1998',
+              "2000",
+              "1995",
+          ],
+      },
+      {
+          'In welchem ​​Jahr schlossen sich die Stolz-Kampfmeisterschaften?': [
+              '2007',
+              "2010",
+              "2005",
+              '2008',
+          ],
+      },
+      {
+          "Wer gewann den Pride Fighting Championships 2004 Schwergewichts-Grand Prix": [
+              "Fedor Emelianenko",
+              "Naoya Ogawa",
+              "Antônio Rodrigo Nogueira",
+              "Sergei Kharitonov",
+          ],
+      },
+      {
+          'In welchem ​​Jahr wurde Bellator Mixed Martial Arts gegründet?': [
+              '2008',
+              '2007',
+              "2010",
+              '2009',
+          ],
+      },
+      {
+          "Wer war der erste Bellator Mixed Martial Arts Schwergewichts-Champion?": [
+              "Cole Konrad",
+              'Eric Prindle',
+              "Neil Grove",
+              "Alexander Volkov",
+              "Rich Hale",
+              "Josh Barnett",
+          ],
+      },
+
+{
+          'Wer war der erste Bellator Mixed Martial Arts Champion im Halbschwergewicht?': [
+              "Christian M\' Pumbu",
+              "Rich Hale",
+              'Attila Végh',
+              "Emanuel Newton",
+              "Liam McGeary",
+              'Muhammed Lawal',
+              "Forrest Griffin",
+          ],
+      },
+      {
+          'Wer war der erste Bellator Mixed Martial Arts Mittelgewichts-Champion?': [
+             "Hector Lombard",
+             "Alexander Shlemenko",
+             "Maiquel Falcão",
+             "Brandon Halsey",
+          ],
+      },
+      {
+          "Wer war der erste Bellator Mixed Martial Arts im Weltergewicht Champion?": [
+              "Lyman gut",
+              'Omar de la Cruz',
+              'Ben Askren',
+              "Douglas Lima",
+          ],
+      },
+      {
+          "Wer war der erste Bellator Mixed Martial Arts Leichtgewichts-Champion?": [
+              'Eddie Alvarez',
+              "Toby Imada",
+              "Michael Chandler",
+              "Will Brooks",
+          ],
+      }, {
+          "Bevor er Bellator Mixed Martial Arts genannt wurde, wie wurde die Promotion genannt?": [
+              "Bellator Fighting Championships",
+              'Bellator',
+              'Bellator Fighters',
+              'Traum',
+          ],
+      },
+      {
+          "Wer war der erste Bellator Mixed Martial Arts Champion?": [
+              'Joe Soto',
+              "Lyman gut",
+              "Hector Lombard",
+              'Eddie Alvarez',
+          ],
+      },
+      {
+          "Wer war der erste Ultimate Fighting Championship Champion?": [
+              'Royce Gracie',
+              "Gerard Gordeau",
+              "Ken Shamrock",
+              'Kevin Rosier',
+          ],
+      },
+
+{
+          'Joe Rogan ist ein berühmter Komiker und hat Interviews und Kommentare für die ultimative Kampfmeisterschaft gemacht. Welches Ereignis war sein erstes? ': [
+              "Ultimative Kampfmeisterschaft 12",
+              "Ultimative Kampfmeisterschaft 10",
+              "Ultimate Kampf Meisterschaft 15",
+              "Ultimative Kampfmeisterschaft 14",
+          ],
+      },
+      {
+          'Welche zwei Kämpfer gewann die erste Staffel von The Ultimate Fighter?': [
+              "Forrest Griffin und Diego Sanchez",
+              "Forrest Griffin und Stephan Bonnar",
+              'Diego Sanchez und Kenny Florian',
+              "Stephan Bonnar und Kenny Florian",
+          ],
+      },
+      {
+          "Welche zwei Kämpfer trainierten die erste Staffel von The Ultimate Fighter?": [
+              "Chuck Liddell und Randy Couture",
+              "Chuck Liddell und Tito Ortiz",
+              "Randy Couture und Tito Ortiz",
+              "Matt Hughes und Rich Franklin",
+          ],
+      },
+      {
+          "Viele Leute glauben fälschlicherweise, dass die Brüder Fertitta die Ultimate Fighting Championship gegründet haben. Während sie die Ultimate Fighting Championship nicht fanden, wuchsen sie zu dem Giganten, den es heute ist. In welchem ​​Jahr haben sie die Ultimate Fighting Championship gekauft?": [
+              "2001",
+              "2000",
+              "1999",
+              "2002",
+          ],
+      },
+      {
+          'In welchem ​​Jahr verkaufte Zuffa die Ultimate Fighting Championship': [
+              '2016',
+              '2017',
+              '2014',
+              '2015',
             ],
         },
     ],
